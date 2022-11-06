@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-common:22.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/native/gradle-7.0.2/caches/transforms-3/64d1642f3a0ef9047d9f89b2b28313c2/transformed/firebase-ml-common-22.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/native/gradle-7.0.2/caches/transforms-3/64d1642f3a0ef9047d9f89b2b28313c2/transformed/firebase-ml-common-22.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/native/gradle-7.0.2/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-common/22.1.1/556089cc88f0d0656770c97e449458b2912cd0af/firebase-ml-common-22.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
