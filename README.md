@@ -1,9 +1,9 @@
 # Project Team Details :
-1: Arpit Saikia, NIT Silchar (https://www.linkedin.com/in/arpit-saikia-b82093241)
-2: Dipan Patgiri,, NIT Silchar (https://www.linkedin.com/in/dipan-patgiri-a04473148/)
-3: Somya Kasaudhan,, NIT Silchar (https://www.linkedin.com/in/somya-kasaudhan-365133229)
-4: Diptabh Medhi,, NIT Silchar (https://www.linkedin.com/in/diptabh-medhi-4836a8229)
-5: Sameer Zaidi,, NIT Silchar (https://www.linkedin.com/in/sameer-zaidi-541261226/)
+1: Arpit Saikia, NIT Silchar
+2: Dipan Patgiri,, NIT Silchar 
+3: Somya Kasaudhan,, NIT Silchar
+4: Diptabh Medhi,, NIT Silchar
+5: Sameer Zaidi,, NIT Silchar
 
 
 # Project Explanation :
