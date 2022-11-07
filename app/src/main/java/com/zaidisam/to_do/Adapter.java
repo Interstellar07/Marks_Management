@@ -53,6 +53,7 @@ public class Adapter extends RecyclerView.Adapter <Adapter.viewholder>{
           holder.itemView.setOnClickListener(new View.OnClickListener() {
               @Override
               public void onClick(View v) {
+                  context.startActivity(new Intent(context,Scan_activity.class));
 
               }
           });

@@ -52,8 +52,8 @@ public class MainActivity extends AppCompatActivity {
            fab.setOnClickListener(new View.OnClickListener() {
               @Override
               public void onClick(View view) {
-                  startActivity(new Intent(MainActivity.this,Scan_activity.class));
-                  //addnote();
+                 // startActivity(new Intent(MainActivity.this,Scan_activity.class));
+                  addnote();
               }
           });
 
