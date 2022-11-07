@@ -1,9 +1,9 @@
 # Project Team Details :
-1: Arpit Saikia, NIT Silchar
-2: Dipan Patgiri,, NIT Silchar 
-3: Somya Kasaudhan,, NIT Silchar
-4: Diptabh Medhi,, NIT Silchar
-5: Sameer Zaidi,, NIT Silchar
+1. Arpit Saikia, NIT Silchar
+2. Dipan Patgiri, NIT Silchar 
+3. Somya Kasaudhan, NIT Silchar
+4. Diptabh Medhi, NIT Silchar
+5. Sameer Zaidi, NIT Silchar
 
 
 # Project Explanation :
@@ -11,8 +11,11 @@
  We are designing an app that minimizes the manual data input into the database using a camera of mobile phone and ML algorithms, after the evaluation of the answer scripts is done. 
 
 We are employing a three step procedure to convert the data into digital format:
+
 1.Writing the marks in a given format
+
 2.Scanning it from the application
+
 3.Processing the text and storing the required information.
 
 
@@ -39,15 +42,21 @@ This solution combines machine learning, the Google Cloud Vision API, online dat
 
 ## Installation
 
-Clone this repository and import into **Android Studio**
-git clone git@github.com:interstellar07/<Marks_Management>.git
+Clone this repository and import into **Android Studio** though terminal
+ 
+#or
+ 
+1. Open Android Studio and make new project from Version Control
+2. Select git and paste repo url
+3. Sync Gradle and build project
+4. Run on emulator
 
 ## Build variants
 Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
 
 ## Generating APK
 From Android Studio:
-1. ***Run on Emulator with Internet Connection*** menu
+1. ***Run on Emulator with Internet Connection*** 
 2. ***Or Generate Signed APK...***
 
 
