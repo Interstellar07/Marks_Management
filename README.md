@@ -1,4 +1,6 @@
-# Project Team Details :
+# Hurrey-Hackathon-Submission
+
+## Project Team Details :
 1. Arpit Saikia, NIT Silchar
 2. Dipan Patgiri, NIT Silchar 
 3. Somya Kasaudhan, NIT Silchar
